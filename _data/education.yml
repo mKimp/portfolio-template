@@ -1,10 +1,11 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
+- course: MSc Computer Science
+  institute: Portland State University
+  dates: 2017-Present
   logo: uob.png
-  
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
+
+- course: BSc Hospitality Management
+  minor: Business Admin
+  institute: San Francsico State University
+  dates: 2013 - 2015
+  logo: uob.png
   
